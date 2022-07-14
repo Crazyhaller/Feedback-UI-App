@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #202142;
+  background-color: #3f5c81;
   color: #fff;
   line-height: 1.6;
 }
@@ -87,7 +87,7 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
+  background: purple;
   color: #fff;
 }
 
